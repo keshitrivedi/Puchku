@@ -1,2 +1,2 @@
-## Puchku
+# Puchku
 # silly little game
